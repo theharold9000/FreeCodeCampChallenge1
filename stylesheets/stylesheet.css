@@ -1,7 +1,15 @@
-h1 .test {
-  color: red; }
+h1 {
+  font-family: 'Vidaloka', serif; }
+  h1#main-head {
+    color: #fff; }
 
-div .container-fluid {
-  background-color: #a5a5a5; }
+.pats-blue {
+  background-color: #0C2340; }
+
+.pats-silver {
+  background-color: #A2AAAD; }
+
+.pats-red {
+  background-color: #C8102E; }
 
 /*# sourceMappingURL=stylesheet.css.map */
